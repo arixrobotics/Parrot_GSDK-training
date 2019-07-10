@@ -27,4 +27,6 @@ The codes have been tested using Simulated and actual Anafi 4K drone with GSDK v
  2. So if you are using the default drone configuration;
 	 > $ sphinx sim_world/tc6.world /opt/parrot-sphinx/usr/share/sphinx/drones/anafi4k.drone::stolen_interface=::simple_front_cam=true
 
+
+
 	 
